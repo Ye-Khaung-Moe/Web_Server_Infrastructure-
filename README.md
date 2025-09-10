@@ -100,7 +100,7 @@ Verify and update /etc/resolv.conf if necessary.
 After completing these steps, all functions will be fully operational. 🚀
 
 🚀 Future Road-Map
-
+-------------------
 The next step for this infrastructure lab is to fully containerize the environment using Docker. This will make the setup easier to use, more portable, and highly consistent across different systems.
 
 Key plans include:
