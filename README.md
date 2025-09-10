@@ -55,18 +55,21 @@ NIC 1 → NAT (Virtual)
 NIC 2 → 192.168.100.10
 
 🎮 Application & Monitoring Access
-
 -Pokémon MiniGame → http://devops.host
+
 -Zabbix Monitoring → http://192.168.100.10:8080
+
 -Username: Zabbix
+
 -Password: Admin
 
 Jenkins CI/CD → http://192.168.100.10:8000
+
 -Username: Ravil (Admin User)
+
 -Password: khaungMOE!1
 
 💻 Virtualization Setup
-
 Download and install a Virtual Machine Manager of your choice:
 -VirtualBox
 -VMware
