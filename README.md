@@ -98,3 +98,24 @@ Import the .ovf file into your virtual machine manager.
 Verify and update /etc/resolv.conf if necessary.
 
 After completing these steps, all functions will be fully operational. 🚀
+
+🚀 Future Road-Map
+
+The next step for this infrastructure lab is to fully containerize the environment using Docker. This will make the setup easier to use, more portable, and highly consistent across different systems.
+
+Key plans include:
+
+🐳 Dockerize All Services – Containerize the entire stack including:
+
+DNS (BIND)
+
+Nginx Web Server
+
+Zabbix Monitoring
+
+Jenkins CI/CD
+
+📦 Portable Infrastructure – With Docker, the entire lab can be packaged as images or Docker Compose stacks, making it easy to replicate, scale, or migrate to other environments.
+
+💡 Future Enhancements – Potentially integrate Docker Compose or Kubernetes for multi-container orchestration, scaling, and advanced CI/CD workflows.
+
