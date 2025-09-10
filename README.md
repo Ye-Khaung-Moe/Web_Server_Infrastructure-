@@ -24,6 +24,16 @@ This project demonstrates a complete infrastructure lab designed for deploying a
 -One dedicated to the public network for external access.
 -One dedicated to the private network for internal communication and security.
 
+🖥️ Windows Host Users – SSH Access
+
+For users running Windows as the host system, a convenient batch file is provided:
+
+File: ssh_vm1.bat
+
+Purpose: Quickly establish an SSH connection to VM1 without manually typing commands.
+
+💡 Simply double-click the file, and it will connect you directly to the VM via SSH.
+
 🔎 DNS Service – The DNS (BIND) server operates independently to resolve and map domain names to the server’s IP address, making the application accessible with ease.
 
 💻 Source Code Management – The application source code is stored in a GitHub repository.
