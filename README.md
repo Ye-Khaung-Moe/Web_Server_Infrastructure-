@@ -9,6 +9,11 @@ This project demonstrates a complete infrastructure lab designed for deploying a
 
 
 
+
+🗂️  Download link 
+-------------------
+https://drive.google.com/drive/folders/1PMlKu1bsmqbY-Exr2FW5xu9uHR9EfZo-?usp=sharing
+
 🛠️ Tech Stack
 ---------------
 🌍 DNS (BIND) – Provides domain name resolution by mapping domain names to IP addresses, making the web application accessible with a human-friendly URL instead of raw IPs.
