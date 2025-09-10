@@ -3,7 +3,11 @@
 📖 Infrastructure Overview
 ---------------------------
 This project demonstrates a complete infrastructure lab designed for deploying and monitoring a web application. It brings together automation, monitoring, and continuous delivery to simulate a real-world production environment.
+
+
 ![Software-life-Cycle](./diagram.png)
+
+
 
 🛠️ Tech Stack
 ---------------
